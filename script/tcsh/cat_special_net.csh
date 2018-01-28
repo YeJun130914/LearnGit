@@ -1,4 +1,4 @@
-#!/bin/csh -f
+#!/usr/bin/csh -f
 #########################################
 # File Name: cat_special_net.csh
 # Author: albert_ye
