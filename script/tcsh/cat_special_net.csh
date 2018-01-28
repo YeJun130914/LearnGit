@@ -1,4 +1,10 @@
 #!/bin/csh -f
+#########################################
+# File Name: cat_special_net.csh
+# Author: albert_ye
+# Version: 0.1
+# Last Modified:
+#########################################
 
 set cell_name = $1
 
