@@ -1,4 +1,10 @@
 #!/usr/bin/csh -f
+############################
+# File Name: mem_dnw_lvs.csh
+# Author: albert_ye
+# Version: 0.1
+# Last Modified:
+############################
 
 if ($1 == "-help") then
 	echo "-->	Usage: lvs_block.csh block.list"
