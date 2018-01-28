@@ -2,7 +2,7 @@
 #########################################
 # File Name: cat_special_net.csh
 # Author: albert_ye
-# Version: 0.1
+# Version: 0.2
 # Last Modified:
 #########################################
 
